@@ -11,7 +11,7 @@ Small python-scripted game of "Hangman" where the players must find the mistery 
 ## General info
 
 Small python-scripted game of "Hangman" where the players must find the mistery word before running out of lives.
-Two parameters can be modified in game.py, above the constructor __init__() : 
+Two attributes can be modified in game.py, above the constructor __init__() : 
 
 * Amount of lives
 * List of words to be picked from
@@ -33,6 +33,7 @@ Install python version 3.10.4 on your computer.
 
 ## Usage
 
+Change directory to the folder containing main.py.
 Run the game by entering "python3 main.py" in your linux terminal.
 Type "exit" to quit the game at any time.
 
